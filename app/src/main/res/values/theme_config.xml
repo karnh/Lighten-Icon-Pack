@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  ADW Launcher Theme properties -->
+    <bool name="enableIconPack">true</bool>
+    <bool name="enableDockPack">false</bool>
+
+    <!-- ADW Description-->
+    <string name="authorName">webh</string>
+    <string name="developerName">webh</string>
+    <string name="authorLink">https://play.google.com/store/apps/developer?id=webh</string>
+    <!--string name="theme_title">Nth Icon Theme</string-->
+    <string name="dock_pack_title">Lighten Icon Pack</string>
+    <string name="icon_pack_title">Lighten Icon Pack</string>
+    <!--string name="theme_description"><![CDATA[Small theme which applies circle mask on all icons]]></string-->
+</resources>

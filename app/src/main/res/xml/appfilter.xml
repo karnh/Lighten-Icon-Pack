@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <iconback img1="bitmap" />
+    <iconmask img1="masknew" />
+    <!--iconupon img1="iconupon" /-->
+    <scale factor="0.78" />
+</resources>
